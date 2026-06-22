@@ -8,43 +8,19 @@ Full Stack Developer | MERN Stack Specialist
 Building modern, scalable and user-friendly web applications 🚀
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/shaikh-mustkim/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mustakimshaikh007@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</p>
-
----
-
-<h1 align="center">Hi 👋, I'm Mustakim Shaikh</h1>
-
-<h3 align="center">
-Full Stack Developer | MERN Stack Specialist
-</h3>
-
 <!-- Typing Animation -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Specialist;React.js+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
-<p align="center">
-Building modern, scalable and user-friendly web applications 🚀
-</p>
-
-<!-- Profile Views Counter -->
+<!-- Profile Views -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaikhmustkim007-collab&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shaikhmustkim007-collab&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
+
+<!-- Social Buttons -->
 
 <p align="center">
 <a href="https://www.linkedin.com/in/shaikh-mustkim/">
@@ -95,7 +71,7 @@ Building modern, scalable and user-friendly web applications 🚀
 
 <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge"/>
 
@@ -132,17 +108,7 @@ Building modern, scalable and user-friendly web applications 🚀
 ## 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhmustkim007-collab&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaikhmustkim007-collab&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
@@ -173,7 +139,7 @@ Building modern, scalable and user-friendly web applications 🚀
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/shaikh-mustkim/">
+<a href="https://www.linkedin.com/in/shaikh-mustkim">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
