@@ -24,7 +24,7 @@ Full Stack Developer | MERN Stack Developer | React.js | Next.js | Node.js
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shaikh-mustkim/" target="blank">
+<a href="https://www.linkedin.com/in/shaikh-mustkim/(mailto:shaikhmustkim007@gmail.com)" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -32,7 +32,7 @@ Full Stack Developer | MERN Stack Developer | React.js | Next.js | Node.js
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME" target="blank">
+<a href="https://www.instagram.com/shaikh_mustkim_313?igsh=MWc5YWl5eWM1d2c0Yg%3D%3D" target="blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
