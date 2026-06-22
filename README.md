@@ -1,7 +1,7 @@
 <!-- Nice To Meet You Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=✨+Nice+To+Meet+You+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=✨+Nice+To+Meet+You+✨;👋+Hello+There!;🚀+Welcome+To+My+Digital+Workspace;💻+Crafting+Modern+Web+Applications;🌱+Always+Learning+New+Technologies;🤝+Open+To+Collaboration+And+Innovation" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mustakim Shaikh</h1>
