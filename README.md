@@ -1,6 +1,12 @@
-# Hi 👋, I'm Mustakim Shaikh
+<h1 align="center">Hi 👋, I'm Mustakim Shaikh</h1>
 
-**Full Stack Developer | MERN Stack Specialist**
+<h3 align="center">
+Full Stack Developer | MERN Stack Developer | React.js | Next.js | Node.js
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
@@ -42,6 +48,17 @@
 *   **Chocolate-World:** Responsive frontend landing page built with HTML, CSS, and Bootstrap 5.
 
 ---
+---
 
 ### 📊 GitHub Stats
-![Mustakim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikhmustkim007-collab&show_icons=true&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaikhmustkim007-collab&show_icons=true&theme=radical" alt="Mustakim's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhmustkim007-collab&theme=radical" alt="Mustakim's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhmustkim007-collab&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shaikhmustkim007-collab&color=blue" alt="Profile Views" />
+</p>
