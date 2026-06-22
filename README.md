@@ -1,3 +1,9 @@
+<!-- Nice To Meet You Animation -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=✨+Nice+To+Meet+You+✨" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mustakim Shaikh</h1>
 
 <h3 align="center">
@@ -155,4 +161,8 @@ Building modern, scalable and user-friendly web applications 🚀
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<!-- Animated Footer -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&pause=1000&color=F7C52D&center=true&vCenter=true&width=700&lines=⭐+Thanks+for+visiting+my+profile!+⭐;Happy+Coding!+🚀;Let's+Build+Something+Amazing+Together+💻" />
+</p>
