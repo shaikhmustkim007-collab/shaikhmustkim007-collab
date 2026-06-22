@@ -10,7 +10,7 @@
 </p>
 
 <!-- Optional: Yahan apna banner image daal dena -->
-<img src="YOUR_BANNER_IMAGE_URL" width="600" />
+<!-- <img src="YOUR_BANNER_IMAGE_URL" width="600" /> -->
 
 ### 👨‍💻 About Me
 * 🔭 I’m currently working on **MERN Stack projects**.
@@ -29,15 +29,24 @@
 </p>
 
 ### ⚡ Stats ⚡
-<p align="center">
+<div>
+  <div>
+    
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shaikhmustkim007-collab&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhmustkim007-collab&theme=radical" />
+  
 </p>
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaikhmustkim007-collab&show_icons=true&theme=radical" />
+  
+</p>
+</div>
 
 ### 👑 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhmustkim007-collab&layout=compact&theme=radical" />
 </p>
+  </div>
 
 ### 🚀 Thanks for visiting my profile, see you next time!
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
