@@ -142,7 +142,7 @@ Building modern, scalable and user-friendly web applications 🚀
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaikhmustkim007-collab&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shaikhmustkim007-collab&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
