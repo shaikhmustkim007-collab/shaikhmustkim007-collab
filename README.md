@@ -118,7 +118,11 @@ Building modern, scalable and user-friendly web applications 🚀
 
 ## 🚀 Featured Projects
 
-- **[NovStock Inventory System](https://github.com/shaikhmustkim007-collab/novstock-inventory-system)**
+- *NovStock Inventory System** 
+  <br>
+  <a href="https://github.com/shaikhmustkim007-collab/novstock-inventory-system">
+    <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+  </a>
   - A modern, responsive Inventory Management System built with the **MERN Stack**.
   - **Key Features:** Secure User Authentication, Admin Dashboard for stock management, responsive UI with Tailwind CSS & Shadcn/UI.
   - **Tech Stack:** React.js, Node.js, Express, MongoDB, Tailwind CSS.
