@@ -124,12 +124,6 @@ Building modern, scalable and user-friendly web applications 🚀
 * Built with **HTML, CSS, Bootstrap**
 * Fully responsive design
 
-### 📚 ReadOn - Online Book Store
-
-* Full-stack MERN application
-* JWT Authentication & Role Based Access
-* PDF Book Download Feature
-
 ### 🍔 Food Delivery Platform
 
 * MERN Stack Project
