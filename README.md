@@ -118,6 +118,11 @@ Building modern, scalable and user-friendly web applications 🚀
 
 ## 🚀 Featured Projects
 
+- **[NovStock Inventory System](https://github.com/shaikhmustkim007-collab/novstock-inventory-system)**
+  - A modern, responsive Inventory Management System built with the **MERN Stack**.
+  - **Key Features:** Secure User Authentication, Admin Dashboard for stock management, responsive UI with Tailwind CSS & Shadcn/UI.
+  - **Tech Stack:** React.js, Node.js, Express, MongoDB, Tailwind CSS.
+
 ### 🍫 Chocolate World
 
 * Premium chocolate store landing page
