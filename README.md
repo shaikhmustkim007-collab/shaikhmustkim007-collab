@@ -119,7 +119,7 @@ Building modern, scalable and user-friendly web applications 🚀
 ## 🚀 Featured Projects
 
 - **NovStock Inventory System** 
-  <br>
+  
   <a href="https://github.com/shaikhmustkim007-collab/novstock-inventory-system">
     <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
   </a>
@@ -128,9 +128,10 @@ Building modern, scalable and user-friendly web applications 🚀
   - **Tech Stack:** React.js, Node.js, Express, MongoDB, Tailwind CSS.
 
 - **🍫 Chocolate World** 
-<br>
+
 <a href="https://shaikhmustkim007-collab.github.io/chocolate-world/">
-    <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+    <!-- <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Project"> -->
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
 * Premium chocolate store landing page
