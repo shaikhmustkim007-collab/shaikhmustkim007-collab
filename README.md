@@ -118,8 +118,8 @@ Building modern, scalable and user-friendly web applications 🚀
 
 ## 🚀 Featured Projects
 
-- *NovStock Inventory System** 
-  <br>
+- **NovStock Inventory System** 
+  
   <a href="https://github.com/shaikhmustkim007-collab/novstock-inventory-system">
     <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
   </a>
@@ -127,7 +127,9 @@ Building modern, scalable and user-friendly web applications 🚀
   - **Key Features:** Secure User Authentication, Admin Dashboard for stock management, responsive UI with Tailwind CSS & Shadcn/UI.
   - **Tech Stack:** React.js, Node.js, Express, MongoDB, Tailwind CSS.
 
-### 🍫 Chocolate World
+### 🍫 Chocolate World  <a href="https://shaikhmustkim007-collab.github.io/chocolate-world/">
+    <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+  </a>
 
 * Premium chocolate store landing page
 * Built with **HTML, CSS, Bootstrap**
